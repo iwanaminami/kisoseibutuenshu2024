@@ -1,4 +1,4 @@
-# 基礎生物学演習Ⅰ
+![image](https://github.com/iwanaminami/kisoseibutuenshu2024/assets/38215006/d0f11dd4-1bd1-4d83-90e5-26fa31350b14)# 基礎生物学演習Ⅰ
 
 2024年6月12日〜2024年7月31日の水曜日
 
@@ -9,7 +9,7 @@ Heyde et al., Cell 2021.
 [https://doi.org/10.1038/nature03669](https://doi.org/10.1016/j.cell.2021.01.049)
 
 ### 発表のための論文選定基準
-- 英語論文
+- 生物学関連の英語論文（e.g. がん、ウイルス、造血）
 - 2021年以降
 - Original article
 - アーカイブ（プレプリント）もOK
