@@ -6,7 +6,7 @@
 - 2024年6月19日、2024年6月26日  
 Increased stem cell proliferation in atherosclerosis accelerates clonal hematopoiesis.  
 Heyde et al., Cell 2021.  
-[https://doi.org/10.1038/nature03669](https://doi.org/10.1016/j.cell.2021.01.049)
+[https://doi.org/10.1016/j.cell.2021.01.049](https://doi.org/10.1016/j.cell.2021.01.049)
 
 ### 発表のための論文選定基準
 - 生物学関連の英語論文（e.g. がん、ウイルス、造血）
